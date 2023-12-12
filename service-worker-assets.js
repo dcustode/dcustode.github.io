@@ -25,15 +25,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-FErl7DRoLocjvOOAdkFzQ9jkjTP3xpoUl96MsVXRDcM=",
+      "hash": "sha256-v6\/U5838U5vWwfLAi42UbR+6wTOEeFzABI\/YEJvf7dc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-LI2+jpAt7y5YXzACHtgb2D1\/IittoaLm8rw0iRl8O5I=",
+      "hash": "sha256-04bMBxhfbLnW49rU7yeIjQxj+PfrFjGbUEcwoFLEZ1g=",
       "url": "_framework\/dotnet.native.8.0.0.mp6hcgkzpf.js"
     },
     {
-      "hash": "sha256-MDPDCUJ4dwL5gJL0WzYPMbUdeDtLsma87pTAyMZ\/3Ls=",
+      "hash": "sha256-hgWIitI0T5u4i057YE54sEo6Kvb9PIrrmqjgKxsdHmo=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-5+fa85r\/OetnH1FM2tv7TBd51jj6+GEJbt40k\/ifW7c=",
+      "hash": "sha256-5X1kct30xHE9GNERXNrPM7tgaynsR\/9LM4W5n6aRNis=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/System.Runtime.wasm"
     },
     {
-      "hash": "sha256-DPwlxneY\/Ew35pG2J2ns2g7GeDktOeYN2IrvsO+vPS4=",
+      "hash": "sha256-PPjgJMbaJy7HmAFbiVQDmuLd+9vm5X5Uxk2KptWctx4=",
       "url": "_framework\/System.Text.Encodings.Web.wasm"
     },
     {
@@ -205,5 +205,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "qnESklaq"
+  "version": "wQag4R1A"
 };
